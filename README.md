@@ -1,5 +1,4 @@
-# Cognitive-Load-and-LLM-Selection-Bias
-The repo for the paper titled: Compensatory Biases Under Cognitive Load: Reducing Selection Bias in Large Language Models by Jonathan Eicher and Rafael Irgolič
+# Compensatory Biases Under Cognitive Load: Reducing Selection Bias in Large Language Models by Jonathan Eicher and Rafael Irgolič
 
 ## Graphical Abstract
 ![graphical_abstract](https://github.com/bluewin4/Cognitive-Load-and-LLM-Selection-Bias/assets/47462814/6d57577c-073a-4523-b03a-5b0a642b66f9)
