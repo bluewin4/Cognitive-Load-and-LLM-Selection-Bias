@@ -3,7 +3,7 @@ by Jonathan Eicher and Rafael Irgolič
 
 ## Graphical Abstract
 ![graphical_abstract](https://github.com/bluewin4/Cognitive-Load-and-LLM-Selection-Bias/assets/47462814/6d57577c-073a-4523-b03a-5b0a642b66f9)
-
+The two data collection methods used in this paper: a two-step method which separates the sample step and guard rail, and a direct guard rail method which combines them into a single step. Each method is annotated with its relative cognitive load and bias as a result of the method.
 
 
 ## Abstract: 
